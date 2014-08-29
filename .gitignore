@@ -1,0 +1,19 @@
+.pydevproject
+.project
+
+# cmake configs 
+CMakeFiles/
+
+# executables
+*.bin 
+*.pyc
+
+# temp files 
+*.swp
+
+# image files 
+*.jpg 
+*.png
+*.pdf 
+*.PDF
+*.gif
